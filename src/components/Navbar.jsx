@@ -12,7 +12,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="relative text-pink-600 px-3 py-3 h-14 flex justify-between items-center shadow-md font-poppins bg-pink-100">
+    <nav className="relative text-pink-600 px-3 py-3 h-14 flex justify-between items-center shadow-md font-poppins bg-pink-50">
       {/* Logo */}
       <img
         src={logo}
